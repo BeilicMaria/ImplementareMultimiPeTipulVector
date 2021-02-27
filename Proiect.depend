@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1588175008 source:c:\users\beili\onedrive\desktop\proiectpoo\proiect\main.cpp
+	<iostream>
+	"Vector.h"
+
+1588175008 source:c:\users\beili\onedrive\desktop\proiectpoo\proiect\vector.cpp
+	"Vector.h"
+	<iostream>
+
+1588175749 c:\users\beili\onedrive\desktop\proiectpoo\proiect\vector.h
+	<iostream>
+
+1588173738 source:c:\users\beili\onedrive\desktop\proiectpoo\proiect\multime.cpp
+	"Multime.h"
+
+1588173707 c:\users\beili\onedrive\desktop\proiectpoo\proiect\multime.h
+	"Multime.h"
+	"Vector.h"
+
+1588175008 source:c:\users\maria\desktop\proiect1\proiect\main.cpp
+	<iostream>
+	"Vector.h"
+
+1588176335 c:\users\maria\desktop\proiect1\proiect\vector.h
+	<iostream>
+
+1588176227 source:c:\users\maria\desktop\proiect1\proiect\vector.cpp
+	"Vector.h"
+	<iostream>
+
+1588180963 source:c:\users\beili\onedrive\desktop\proiect1\proiect\main.cpp
+	<iostream>
+	"Vector.h"
+
+1588181511 c:\users\beili\onedrive\desktop\proiect1\proiect\vector.h
+	<iostream>
+
+1588176227 source:c:\users\beili\onedrive\desktop\proiect1\proiect\vector.cpp
+	"Vector.h"
+	<iostream>
+
+1590056923 source:c:\users\beili\onedrive\desktop\facultate\proiect poo\proiect poo beilic maria\proiect poo\main.cpp
+	<iostream>
+	<ctype.h>
+	<windows.h>
+	"Vector.h"
+	"Meniuri.h"
+
+1590069019 c:\users\beili\onedrive\desktop\facultate\proiect poo\proiect poo beilic maria\proiect poo\vector.h
+	<iostream>
+
+1590755428 source:c:\users\beili\onedrive\desktop\facultate\proiect poo\proiect poo beilic maria\proiect poo\vector.cpp
+	"Vector.h"
+	<iostream>
+
+1590010203 c:\users\beili\onedrive\desktop\facultate\proiect poo\proiect poo beilic maria\proiect poo\meniuri.h
+
+1590755845 source:c:\users\beili\onedrive\desktop\facultate\proiect poo\proiect poo beilic maria\proiect poo\meniuri.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"Vector.h"
+	"Meniuri.h"
+
+1590056923 source:c:\users\beili\onedrive\desktop\facultate\proiect poo\proiect poo beilic maria\proiect_poo_beilic maria_3122b\main.cpp
+	<iostream>
+	<ctype.h>
+	<windows.h>
+	"Vector.h"
+	"Meniuri.h"
+
+1590069019 c:\users\beili\onedrive\desktop\facultate\proiect poo\proiect poo beilic maria\proiect_poo_beilic maria_3122b\vector.h
+	<iostream>
+
+1590010203 c:\users\beili\onedrive\desktop\facultate\proiect poo\proiect poo beilic maria\proiect_poo_beilic maria_3122b\meniuri.h
+
+1590757682 source:c:\users\beili\onedrive\desktop\facultate\proiect poo\proiect poo beilic maria\proiect_poo_beilic maria_3122b\meniuri.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"Vector.h"
+	"Meniuri.h"
+
+1590755428 source:c:\users\beili\onedrive\desktop\facultate\proiect poo\proiect poo beilic maria\proiect_poo_beilic maria_3122b\vector.cpp
+	"Vector.h"
+	<iostream>
+
